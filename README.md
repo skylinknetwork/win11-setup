@@ -1,6 +1,7 @@
-## Masukkan satu persatu kode dibawah ini di CMD Mode Administrator untuk aktivasi Windows 11
-<img width="838" height="866" alt="Screenshot_16" src="https://github.com/user-attachments/assets/f41be361-c313-490b-ad37-db5b87a59908" />
+## Masukkan satu persatu kode dibawah ini
+<br>
 ### Ketik cmd di search lali klik Run As Administrator
+<img width="838" height="866" alt="Screenshot_16" src="https://github.com/user-attachments/assets/f41be361-c313-490b-ad37-db5b87a59908" />
 ```bash
 slmgr.vbs /upk
 ```
