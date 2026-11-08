@@ -1,3 +1,4 @@
+## Masukkan satu persatu kode dibawah ini di CMD Mode Administrator untuk aktivasi Windows 11
 ```bash
 slmgr.vbs /upk
 ```
