@@ -5,6 +5,7 @@
 ```bash
 slmgr.vbs /upk
 ```
+</br
 ```bash
 slmgr.vbs /cpky
 ```
