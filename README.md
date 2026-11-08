@@ -1,4 +1,6 @@
-```slmgr.vbs /upk```
+```bash
+slmgr.vbs /upk
+```
 slmgr.vbs /cpky
 slmgr.vbs /ckms
 
